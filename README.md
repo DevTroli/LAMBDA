@@ -1,8 +1,8 @@
 # LAMBDA λ - Text Editor
 
-![GitHub repo size](https://img.shields.io/github/repo-size/DevTroli/Text-Editor)
-![GitHub stars](https://img.shields.io/github/stars/DevTroli/Text-Editor)
-![GitHub forks](https://img.shields.io/github/forks/DevTroli/TextEditor?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/DevTroli/LAMBDA)
+![GitHub stars](https://img.shields.io/github/stars/DevTroli/LAMBDA)
+![GitHub forks](https://img.shields.io/github/forks/DevTroli/LAMBDA?style=social)
 
 🚧 final version is under development, not yet 100% functional 🚧
 
